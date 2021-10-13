@@ -19,6 +19,10 @@
            fetch="https://github.com/ArrowOS"
            review="https://review.arrowos.net/"
            revision="refs/heads/arrow-12.0" />
+		   
+  <remote  name="mido"
+           fetch="https://github.com/Redmi-note-4x"
+           revision="refs/heads/msm8996" />
 
   <remote  name="arrow-11.0"
            fetch="https://github.com/ArrowOS"
